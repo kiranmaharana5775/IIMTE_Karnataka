@@ -59,4 +59,3 @@ document.addEventListener("DOMContentLoaded", function () {
         goToSlide(currentIndex + 1); // Move to the next image
     });
 });
-
