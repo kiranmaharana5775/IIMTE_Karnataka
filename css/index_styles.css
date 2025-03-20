@@ -279,7 +279,7 @@
     margin: 0;
     font-size: 18px;
     color: #000000;
-    background: linear-gradient(to right, #37eb79, #5663cd, #37eb79);
+    background: linear-gradient(to left, #37eb79, #5663cd, #37eb79);
     padding: 10px 10px;
     width: 100%;
     box-sizing: border-box;
