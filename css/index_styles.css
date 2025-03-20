@@ -859,7 +859,7 @@
 /* Responsive Navigation for Mobile */
 @media screen and (max-width: 768px) {
     .navbar{
-        top: 7.5%;
+        top: 7%;
     }
 
     .nav-container {
