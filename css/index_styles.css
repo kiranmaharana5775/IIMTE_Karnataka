@@ -683,7 +683,7 @@
 /* Responsive Navigation for Tablets */
 @media screen and (max-width: 1024px) {
     .navbar{
-        top: 11.1%;
+        position: relative;
     }
     
     .nav-container {
