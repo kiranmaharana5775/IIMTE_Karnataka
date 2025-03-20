@@ -859,7 +859,7 @@
 /* Responsive Navigation for Mobile */
 @media screen and (max-width: 768px) {
     .navbar{
-        top: 7.3%;
+        top: 7.5%;
     }
 
     .nav-container {
@@ -957,7 +957,7 @@
 
     /* Notice Content Heading */
     .notice-content h3 {
-        font-size: 16px; /* Smaller font size for mobile */
+        font-size: 13px; /* Smaller font size for mobile */
         padding: 8px 10px; /* Adjust padding */
     }
 
