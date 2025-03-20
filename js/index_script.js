@@ -59,3 +59,8 @@ document.addEventListener("DOMContentLoaded", function () {
         goToSlide(currentIndex + 1); // Move to the next image
     });
 });
+
+document.getElementById('studentLoginBtn').addEventListener('click', function() {
+    // Open the student login page in a new tab
+    window.open('student_login.html', '_blank'); // Replace with the actual URL of your student login page
+});
